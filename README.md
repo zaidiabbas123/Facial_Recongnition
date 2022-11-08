@@ -16,9 +16,9 @@ Grid Y
 
 3.apply LBP
 
-4. Extracting histogram
+4.Extracting histogram
 
-5. perform recongnition
+5.perform recongnition
 
 ### OUTPUT
 
