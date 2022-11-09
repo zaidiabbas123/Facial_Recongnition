@@ -23,3 +23,14 @@ Grid Y
 ### OUTPUT
 
 ![image](https://user-images.githubusercontent.com/82194617/200524154-74fecbb2-7acc-42ab-957c-ae14a4efd4e6.png)
+
+### Results and Discussions
+
+The code that has been implemented by the authors for facial recognition has been trained on just
+two person dataset
+
+The results for it have been shown below.
+![image](https://user-images.githubusercontent.com/82194617/200904414-73d1a0b7-3799-4cf5-a68e-f5b7252a4b0e.png)
+
+As it can be seen the model based on LBPH works quite efficiently. Both the images belongs to
+the same person that were captured in different exposure gets recognized correctly.
